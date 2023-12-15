@@ -1,0 +1,9 @@
+[submodule "acme-micro"]
+	path = acme-micro
+	url = ./acme-micro
+[submodule "acme-redirect"]
+	path = acme-redirect
+	url = ./acme-redirect
+[submodule "openssl"]
+	path = openssl
+	url = ./openssl
